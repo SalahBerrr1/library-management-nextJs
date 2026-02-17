@@ -2,6 +2,9 @@
 Project Overview
 A full-stack library management web application developed by a team of 6 developers for university-wide implementation. Built with Next.js 14, Tailwind CSS, and Firebase, this system serves as a centralized digital platform managing 50,000+ academic resources across multiple campus libraries.
 
+# Gitlab Code Source:
+https://gitlab.com/SalahBerr
+
 Technical Architecture
 Frontend: Next.js 14 (App Router) with Server-Side Rendering for optimal SEO and performance
 
